@@ -31,6 +31,8 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, JavaScript. Thi
   3. Double click `index.html` or open it using Live Server in VS Code
 
   ## Screenshot
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58219f2a-4ba5-4f8d-a3d1-eb9c0df3fb0f" />
+
 
 
   ## Author
