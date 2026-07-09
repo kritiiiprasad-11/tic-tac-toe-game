@@ -41,6 +41,9 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, JavaScript. Thi
   # Winner Screen
   ![Winner Screen](game1.png)
 
+  ## Live Demo
+  https://kritiiiprasad-11.github.io/tic-tac-toe-game/
+
 
   ## Author
 
