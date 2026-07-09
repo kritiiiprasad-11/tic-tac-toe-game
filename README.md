@@ -32,7 +32,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, JavaScript. Thi
 
   ## Screenshot
 
-  #Gameplay
+  # Gameplay
   ![Gameplay](game2.png)
 
   # Draw Screen
